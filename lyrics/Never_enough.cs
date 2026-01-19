@@ -12,6 +12,7 @@ namespace lyrics
         {
             await TextEffects.TypeLines(new string[]
             {
+                "...",
                 "aM7 bm7",
                 "Why do I feel like I'm never enough?",
                 " ",
